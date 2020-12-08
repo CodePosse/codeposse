@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
   <a href="https://profile.codersrank.io/user/ncodeposse" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=codeposse&skills=JavaScript,TypeScript,SCSS,CSS,HTML&width=820" alt="CodersRank skills chart"/>
+    <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=codeposse&skills=JavaScript,TypeScript,SCSS,CSS,HTML&width=820" alt="CodersRank skills chart"/>
   </a>
 
 
