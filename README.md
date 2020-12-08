@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: I LOVE my :dog: [Shasta] more than anything. I am on 4 patents, I [race], I am a published fashion photograher, I worked in the movie inustry before the web existed. 
 
 
-  <a href="https://profile.codersrank.io/user/ncodeposse" target="_blank">
-    <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=codeposse&skills=JavaScript,TypeScript,SCSS,CSS,HTML&width=820" alt="CodersRank skills chart"/>
+  <a href="https://profile.codersrank.io/user/codeposse" target="_blank">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codeposse" alt="CodersRank skills chart"/>
   </a>
 
 
