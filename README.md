@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Home] | [Medium] | [CodersRank] | [CodePen] | [LinkedIn] | [MoMa] (old)
 - ⚡ Fun facts: I LOVE my :dog: [Shasta] more than anything. I am on 4 patents, I [race], I am a published fashion photograher, I worked in the movie inustry before the web existed. 
 
+
+  <a href="https://profile.codersrank.io/user/ncodeposse" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=codeposse&skills=JavaScript,TypeScript,SCSS,CSS,HTML&width=820" alt="CodersRank skills chart"/>
+  </a>
+
+
+
+
 [Home]: <http://www.ItsSoBig.com/>
 [Shasta]: <https://www.instagram.com/pup90210/>
 [Medium]: <https://timhunold.medium.com/>
