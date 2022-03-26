@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-- 😄 I'm currently working under my own Corp updating WCAG for Marsh-Mclennan and the City of Los Angeles.
+- 😄 I'm currently working on highly secure casino software applications for [Aristocrat] as a UX/UI Architect.
 - 🔭 I recently left [TA Digital] as a UX/UI/FrontEnd Architect/contributor to make protos, lead teams, and set standards.
 - 🤔 I'm a Xoogler (ex-Googler) that built the next-gen of client-facing Google Ads keyword, budget and planning tools.
 - 👯 I’m looking to collaborate on: WCAG 508 compliance.
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 [MoMa]: <https://moma.corp.google.com/person/hunold>
 [TA Digital]: <https://www.tadigital.com/search?keys=hunold>
 [race]: <https://www.scca.com/beverlyhills>
+[Aristocrat]: <https://www.aristocrat.com>
