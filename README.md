@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I recently left working on highly secure casino software applications for [Aristocrat] as a UX/UI Architect.
 - 🤔 I'm a Xoogler (ex-Googler) that built the next-gen of client-facing Google Ads keyword, budget and planning tools I can give you a demo of.
 - 👯 I’m looking to collaborate on: WCAG 508 compliance.
-- 📫 How to reach me: [Home] | [Medium] | [CodersRank] | [CodePen] | [LinkedIn] | [MoMa] (old)
+- 📫 How to reach me: [Home] | [Medium] | [CodersRank] | [CodePen] | [LinkedIn] | [MoMa] (old, Googlers only)
 - ⚡ Fun facts: I LOVE my :wolf: [Shasta] more than anything. I am on 4 patents, I [race], I am a published fashion photograher, I worked in the movie inustry before the web existed. 
 
 
