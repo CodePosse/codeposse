@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   <a href="https://profile.codersrank.io/user/codeposse" target="_blank">
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codeposse" alt="CodersRank skills chart"/>
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codeposse&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codeposse&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
   </a>
 
 
