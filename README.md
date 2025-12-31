@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: ...
 -->
-- 😄 I'm currently working on web applications for [LACourts] for their Jury Duty Portal as a UX/UI/Front End consultant.
+- 😄 I'm currently working on web applications for Los Angeles Superior Court for their Jury Duty Portal as a UX/UI/Front End consultant.
 - 🔭 I recently left working on highly secure casino software applications for [Aristocrat] as a UX/UI Architect.
 - 🤔 I'm a Xoogler (ex-Googler) that built the next-gen of client-facing Google Ads keyword, budget and planning tools I can give you a demo of.
 - 👯 I’m looking to collaborate on: WCAG 508 compliance.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </a>
 
 
-[LACourts]:<https://www.lacourt.org/division/jury/Jury.aspx>
+[LACourts]:<https://www.lacourt.org/>
 [Home]: <http://www.ItsSoBig.com/>
 [Shasta]: <https://www.instagram.com/pup90210/>
 [Medium]: <https://timhunold.medium.com/>
