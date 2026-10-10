@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: ...
 -->
-- 😄 I'm currently working on web WCAG compliance applications for the state of Iowa, Sony Pictures may have me back as well.
+- 😄 I'm currently working on web WCAG compliance applications for the state of Iowa.
 - 🔭 I recently left working as a UX/UI Architect and for [LA Superior Court] and on highly secure casino software applications for [Aristocrat] "Buffalo" games.
 - 🤔 I'm a Xoogler (ex-Googler) that built the next-gen of client-facing Google Ads keyword, budget and planning tools I can give you a demo of.
 - 👯 I’m looking to collaborate on: WCAG 508 compliance.
