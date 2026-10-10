@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: ...
 -->
-- 😄 I'm currently working on web WCAG compliance applications for the state of Iowa.
-- 🔭 I recently left working on highly secure casino software applications for [Aristocrat] as a UX/UI Architect and for Los Angeles Superior Court.
+- 😄 I'm currently working on web WCAG compliance applications for the state of Iowa, Sony Pictures may have me back as well.
+- 🔭 I recently left working as a UX/UI Architect and for [LA Superior Court] and on highly secure casino software applications for [Aristocrat] "Buffalo" games.
 - 🤔 I'm a Xoogler (ex-Googler) that built the next-gen of client-facing Google Ads keyword, budget and planning tools I can give you a demo of.
 - 👯 I’m looking to collaborate on: WCAG 508 compliance.
 - 📫 How to reach me: [Home] | [Medium] | [CodersRank] | [CodePen] | [LinkedIn] | [MoMa] (old, Googlers only)
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </a>
 
 
-[LACourts]:<https://www.lacourt.org/>
+[LA Superior Court]:<https://www.lacourt.org/>
 [Home]: <http://www.ItsSoBig.com/>
 [Shasta]: <https://www.instagram.com/pup90210/>
 [Medium]: <https://timhunold.medium.com/>
