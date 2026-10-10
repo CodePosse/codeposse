@@ -19,7 +19,8 @@ Here are some ideas to get you started:
   <a href="https://profile.codersrank.io/user/codeposse" target="_blank">
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codeposse&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
   </a>
-
+  <script src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
+<codersrank-summary username="codeposse"></codersrank-summary>
 
 [LA Superior Court]:<https://www.lacourt.org/>
 [Iowa]:<https://dom.iowa.gov/>
