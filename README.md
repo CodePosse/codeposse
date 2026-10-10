@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: I LOVE my :wolf: [Shasta] more than anything. I [race], I am a published fashion photograher, I worked in the movie inustry before the web existed. 
 
 
-[![CodersRank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codeposse)](https://codersrank.io)
-
 [LA Superior Court]:<https://www.lacourt.org/>
 [Iowa]:<https://dom.iowa.gov/>
 [Home]: <http://www.ItsSoBig.com/>
